@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcyan;
+	background-image: url(rozapozadina.jpg)
+    margin: 40px;
+    padding: 20px;
+}
+
+p {
+    color: purple;
+    background-color: #f3e8ff; 
+    border: 2px solid violet;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px 0; 
+    line-height: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
